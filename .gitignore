@@ -1,0 +1,23 @@
+# 构建产物（PDF/HTML 可由 build_pdf.py 一键重新生成，也可选择保留提交）
+# book.html
+# libuv-中文使用手册.pdf
+
+# 编译产物
+demos/demo01
+demos/demo02
+demos/demo03
+demos/demo04
+demos/demo05
+demos/demo06
+demos/demo07
+demos/demo08
+demos/demo09
+demos/demo10
+demos/demo11
+demos/demo12
+demos/demo13
+
+# 运行日志与临时脚本
+demos/*.log
+demos/run*.sh
+demos/demo_dir/
